@@ -31,7 +31,7 @@ window.beers = [
   },
   {
     name: 'Berliner Pilsner',
-    description: 'The former East Berlin classic Pils',
+    description: 'Du bist so wunderbar, Berlin!',
     origin: 'Germany',
     preview: `${path}berliner-pilsner.jpg`,
     rating: 4.5,
