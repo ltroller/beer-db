@@ -1,4 +1,4 @@
-const beers = [
+window.beers = [
   {
     "name": "Jever Pils",
     "description": "Lorem ipsum dolor",
