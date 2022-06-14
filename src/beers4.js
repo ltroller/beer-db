@@ -26,7 +26,7 @@ window.beers = [
     name: 'Anchor Steam',
     description: 'A San Francisco tradition since 1896.',
     origin: 'USA',
-    preview: `${path}jever.jpg`,
+    preview: `${path}anchorsteam.jpg`,
     rating: 2.5,
   },
   {
@@ -54,7 +54,7 @@ window.beers = [
     name: 'Trumer Pils',
     description: 'Austrian brewing meets Berkeley.',
     origin: 'USA/Austria',
-    preview: `${path}trumerpils.jpg`,
+    preview: `${path}trumerpils.png`,
     rating: 3.0,
   },
   {
@@ -110,7 +110,7 @@ window.beers = [
     name: 'Modelo',
     description: "It's modelo time!",
     origin: 'Mexico',
-    preview: `${path}modelo.jpg`,
+    preview: `${path}modelo.png`,
     rating: 3.0,
   },
   {
@@ -146,7 +146,7 @@ window.beers = [
     name: 'Staropramen',
     description: 'Bohemian pleasures.',
     origin: 'Czech Republic',
-    preview: `${path}staro.jpg`,
+    preview: `${path}staro.png`,
     rating: 3.5,
   },
   {
