@@ -26,7 +26,7 @@ window.beers = [
     name: 'Anchor Steam',
     description: 'A San Francisco tradition since 1896.',
     origin: 'USA',
-    preview: `${path}anchorsteam.jpg`,
+    preview: `${path}anchor.jpg`,
     rating: 2.5,
   },
   {
@@ -54,7 +54,7 @@ window.beers = [
     name: 'Trumer Pils',
     description: 'Austrian brewing meets Berkeley.',
     origin: 'USA/Austria',
-    preview: `${path}trumerpils.png`,
+    preview: `${path}trumer.jpg`,
     rating: 3.0,
   },
   {
