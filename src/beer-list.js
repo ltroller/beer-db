@@ -139,7 +139,7 @@ window.beers = [
     name: 'Heineken',
     description: 'No love lost here.',
     origin: 'Netherlands',
-    preview: `${path}corona.jpg`,
+    preview: `${path}heineken.png`,
     rating: 2.5,
   },
   {
