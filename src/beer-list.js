@@ -103,7 +103,7 @@ window.beers = [
     name: 'Bière du Démon',
     description: "There's only one reason to drink this.",
     origin: 'France',
-    preview: `${path}pbr.jpg`,
+    preview: `${path}bieredudemon.jpg`,
     rating: 1.5,
   },
   {
