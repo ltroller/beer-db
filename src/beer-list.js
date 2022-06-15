@@ -47,7 +47,7 @@ window.beers = [
     name: 'Sternburg Export',
     description: "Punk's not dead",
     origin: 'Germany',
-    preview: `${path}berliner-kindl.jpg`,
+    preview: `${path}sternburg.jpg`,
     rating: 3.0,
   },
   {
